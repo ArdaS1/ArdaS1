@@ -1,0 +1,6 @@
+- Merhaba Ben Arda ARSLAN
+- Platformlar üzerinde bulabildiğim kaynaklardan Front-End Öğrenmeyi kendime HEDEF OLUŞTURDUM...
+- HTML5 ÖĞRENİLDİ ✓
+- CSS ÖĞRENİLDİ ✓
+- JAVASCRİPT ÖĞRENİLDİ ✓
+- REACT ÖĞRENİLİYOR...
