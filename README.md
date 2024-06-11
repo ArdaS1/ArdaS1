@@ -1,5 +1,4 @@
-- Merhaba Ben Arda ARSLAN
-- 22 yaşındayım ve öğrenciyim
+- Merhaba Ben Arda ARSLAN 22 yaşındayım ve öğrenciyim
 - Platformlar üzerinde bulabildiğim kaynaklardan Front-End Öğrenmeyi kendime HEDEF OLUŞTURDUM...
 - HTML5 ÖĞRENİLDİ ✓
 - CSS ÖĞRENİLDİ ✓
